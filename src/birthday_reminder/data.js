@@ -24,6 +24,18 @@ export const data = [
     image:'https://t3.ftcdn.net/jpg/04/60/91/88/360_F_460918802_XVCymFr7MoziFpnInbTDvrlblYhvAOi2.jpg',
 },
     {
+    id:2,
+    name:'Estella Roberson',
+    age:'8',
+    image:'https://t3.ftcdn.net/jpg/04/60/91/88/360_F_460918802_XVCymFr7MoziFpnInbTDvrlblYhvAOi2.jpg',
+},
+    {
+    id:5,
+    name:'Estella Roberson',
+    age:'8',
+    image:'https://t3.ftcdn.net/jpg/04/60/91/88/360_F_460918802_XVCymFr7MoziFpnInbTDvrlblYhvAOi2.jpg',
+},
+    {
     id:10,
     name:'Barbara Cummings',
     age:'16',
